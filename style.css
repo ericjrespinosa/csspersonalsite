@@ -1,0 +1,104 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+
+#hello{
+  margin: 25px;
+  font-family:'Lobster', cursive;
+}
+
+h2 {
+  font-size: 1rem;
+}
+
+p {
+  font-family: 'Mukta', sans-serif;
+  font-size: 16;
+}
+
+.top_container {
+  background-color: rgb(26, 63, 63);
+  position: relative;
+  padding: 70px;
+  font-size: 1.5rem;
+  margin-bottom: 25px;
+}
+
+.middle_container {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+}
+
+
+.bottom_container {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+}
+
+.bottom_cloud {
+  position: absolute;
+  right: 300px;
+  top: 10px;
+  padding: 25px;
+}
+
+.top_cloud {
+  position: absolute;
+  left: 300px;
+  top: 200px;
+  margin: 30px;
+}
+
+.profile-pic {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+.skill-pic {
+  width: 25%;
+  height: 25%;
+  float: left;
+  margin: 30px;
+}
+
+.cutlery {
+  float: right;
+  margin: 30px;
+}
+
+h3, h4 {
+  font-family: 'Mukta', sans-serif;
+  font-weight: bolder;
+}
+
+#programmer {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me {
+  width: 50%;
+  margin: auto;
+  font-weight: bolder;
+}
+
+h1, h2, h3 {
+  color: rgb(24, 88, 51);
+}
+
+.skills {
+  margin: 0;
+}
